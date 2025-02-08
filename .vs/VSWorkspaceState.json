@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyERC20",
+    "\\MyERC20\\backend",
+    "\\MyERC20\\backend\\contracts"
+  ],
+  "SelectedNode": "\\MyERC20\\backend\\contracts\\MyERC20Token.sol",
+  "PreviewInSolutionExplorer": false
+}
